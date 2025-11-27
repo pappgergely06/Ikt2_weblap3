@@ -1,0 +1,53 @@
+body {
+    background-color: #535353;
+}
+
+.container {
+    text-align: justify;
+    color: white;
+}
+
+img {
+    width: 100%;
+    border-radius: 1rem;
+}
+
+footer {
+    text-align: center;
+}
+
+.cards {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+.card {
+    width: 25rem;
+    margin-bottom: 3rem;
+    color: white;
+    background-color: black;
+    border-radius: 1rem;
+}
+
+#napjaink {
+    color: white;
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+nav {
+    background-color: grey;
+}
+
+iframe {
+    border-radius: 1rem;
+}
+
+.whitespace {
+    height: 15px;
+}
+
+.blueBg {
+    background-color: rgb(11, 68, 103);
+}
